@@ -117,7 +117,7 @@ Then add the following code settings, depending on the theme you choose. **(Afte
 
 ### Sidebar icons
 
-**New:** Now Alpenglow theme support sidebar icons.
+Alpenglow theme support sidebar icons.
 
 ![Alpenglow sidebar icons](screenshots/Alpenglow-sidebar-icons.png)
 
@@ -309,7 +309,7 @@ If you prefer, you can use the color scheme `Alpenglow - Twilight` (very slightl
 
 ![Alpenglow markdown](screenshots/Alpenglow-markdown.png)
 
-**NEW:** This color scheme support **Github Flavored Markdown**.
+This color scheme support **Github Flavored Markdown**.
 
 #### To enable Alpenglow for Markdown
 
@@ -340,4 +340,4 @@ You can also download a replacement icon for Sublime Text [here](https://github.
 
 ## Retina Resolution UI
 
-Alpenglow Theme support retina display.
+Alpenglow Theme supports retina/HiDPI displays.
