@@ -1,43 +1,43 @@
 
-Welcome to Afterglow Theme
+Welcome to Alpenglow Theme
 
 
 To activate the theme, add or replace your current theme settings with the code below.
 
 
-Settings for Afterglow
+Settings for Alpenglow
 {
-    "theme": "Afterglow.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 
-Settings for Afterglow-blue
+Settings for Alpenglow-blue
 {
-    "theme": "Afterglow-blue.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-blue.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 
-Settings for Afterglow-magenta
+Settings for Alpenglow-magenta
 {
-    "theme": "Afterglow-magenta.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-magenta.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 
-Settings for Afterglow-orange
+Settings for Alpenglow-orange
 {
-    "theme": "Afterglow-orange.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-orange.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 
-Settings for Afterglow-green
+Settings for Alpenglow-green
 {
-    "theme": "Afterglow-green.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-green.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 
 
 If you know other settings (height of the tabs, sidebar options, ...), visit this page:
-https://github.com/YabataDesign/afterglow-theme/blob/master/README.md
+https://github.com/YabataDesign/Alpenglow-theme/blob/master/README.md
 
 
-*** IMPORTANT - Make sure to restart Sublime after installing and activating Afterglow ***
+*** IMPORTANT - Make sure to restart Sublime after installing and activating Alpenglow ***

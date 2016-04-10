@@ -1,40 +1,44 @@
-# Afterglow
+# Alpenglow
 
-Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax color scheme. The theme is based on the great theme [Spacegray](https://github.com/kkga/spacegray). The syntax color scheme is mostly derived from [idlefingers](http://idlefingers.co.uk/).
+Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com/YabataDesign/afterglow-theme), a minimal dark UI theme and syntax color scheme for Sublime Text 2 and 3. The theme is based on the [Spacegray](https://github.com/kkga/spacegray) theme. The syntax color scheme is mostly derived from [idlefingers](http://idlefingers.co.uk/).
 
-**Special thanks** to Max Riveiro [@kavu](https://github.com/kavu) for add a lot of icons for sidebar to this repository.
+**Special thanks** to the following contributors:
+
+- José María Clemente [@YabataDesign](https://github.com/YabataDesign) for designing the original [Afterglow theme](https://github.com/YabataDesign/afterglow-theme) this is based on.
+- Max Riveiro [@kavu](https://github.com/kavu) for adding a lot of icons for sidebar to this repository.
+- [@vikjam](https://github.com/vikjam) for their work in maintaining the Afterglow theme.
 
 ## Design & Colors
 
-#### Afterglow default
+#### Alpenglow default
 
-![Afterglow](Screenshots/Afterglow-default.png)
+![Alpenglow](screenshots/Alpenglow-default.png)
 
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-default.png)
+[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-default.png)
 
-#### Afterglow blue
+#### Alpenglow blue
 
-![Afterglow blue](Screenshots/Afterglow-blue.png)
+![Alpenglow blue](screenshots/Alpenglow-blue.png)
 
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-blue.png)
+[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-blue.png)
 
-#### Afterglow magenta
+#### Alpenglow magenta
 
-![Afterglow magenta](Screenshots/Afterglow-magenta.png)
+![Alpenglow magenta](screenshots/Alpenglow-magenta.png)
 
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-magenta.png)
+[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-magenta.png)
 
-#### Afterglow orange
+#### Alpenglow orange
 
-![Afterglow orange](Screenshots/Afterglow-orange.png)
+![Alpenglow orange](screenshots/Alpenglow-orange.png)
 
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-orange.png)
+[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-orange.png)
 
-#### Afterglow green
+#### Alpenglow green
 
-![Afterglow green](Screenshots/Afterglow-green.png)
+![Alpenglow green](screenshots/Alpenglow-green.png)
 
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-green.png)
+[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-green.png)
 
 *The font used in the screenshots is [__Inconsolata -g__](http://leonardo-m.livejournal.com/77079.html).*
 
@@ -47,7 +51,7 @@ The easiest way to install is using [Sublime Package Control](https://sublime.wb
 
 * Open `Command Palette` using menu item `Tools -> Command Palette...`, or `Cmd+Shift+P` (OS X) `Ctrl+Shift+P` (Win/Linux)
 * Type `Package Control: Install Package`
-* Search `Theme - Afterglow`
+* Search `Theme - Alpenglow`
 
 
 ### Git Installation
@@ -56,13 +60,13 @@ Locate your Sublime Text `Packages directory` by using the menu item `Preference
 
 Then, clone the repository using this command:
 
-    git clone https://github.com/Yabatadesign/afterglow-theme/ "Theme - Afterglow"
+    git clone https://github.com/Yabatadesign/afterglow-theme/ "Theme - Alpenglow"
 
 
 ### Manual installation
 
 * Download the [GitHub .zip](https://github.com/Yabatadesign/afterglow-theme/archive/master.zip)
-* Unzip the files and rename the folder to `Theme - Afterglow`
+* Unzip the files and rename the folder to `Theme - Alpenglow`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
 
@@ -73,48 +77,48 @@ Activate this theme and color scheme by modifying your user preferences file, wh
 
 Then add the following code settings, depending on the theme you choose. **(After activating the theme, you must restart Sublime Text.)**
 
-### Settings for Afterglow
+### Settings for Alpenglow
 
 ```json
 {
-    "theme": "Afterglow.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 ```
 
-### Settings for Afterglow-blue
+### Settings for Alpenglow-blue
 
 ```json
 {
-    "theme": "Afterglow-blue.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-blue.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 ```
 
-### Settings for Afterglow-magenta
+### Settings for Alpenglow-magenta
 
 ```json
 {
-    "theme": "Afterglow-magenta.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-magenta.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 ```
 
-### Settings for Afterglow-orange
+### Settings for Alpenglow-orange
 
 ```json
 {
-    "theme": "Afterglow-orange.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-orange.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 ```
 
-### Settings for Afterglow-green
+### Settings for Alpenglow-green
 
 ```json
 {
-    "theme": "Afterglow-green.sublime-theme",
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme"
+    "theme": "Alpenglow-green.sublime-theme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme"
 }
 ```
 
@@ -123,9 +127,9 @@ Then add the following code settings, depending on the theme you choose. **(Afte
 
 ### Sidebar icons
 
-**New:** Now Afterglow theme support sidebar icons.
+**New:** Now Alpenglow theme support sidebar icons.
 
-![Afterglow sidebar icons](Screenshots/Afterglow-sidebar-icons.png)
+![Alpenglow sidebar icons](screenshots/Alpenglow-sidebar-icons.png)
 
 Don't like the icons? Just add this to your preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -146,7 +150,7 @@ Don't like the folde icon? Just add this to your preferences file `Sublime Text 
 
 ### Tab Height Size Options
 
-![Afterglow Tabs](Screenshots/Afterglow-tabs.png)
+![Alpenglow Tabs](screenshots/Alpenglow-tabs.png)
 
 You can change the height of the file tabs (medium or small) by adding either to your preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -172,7 +176,7 @@ You can change the font size of the sidebar and the row padding.
 
 #### Sidebar font size
 
-![Afterglow Sidebar Size](Screenshots/Afterglow-sidebar-size.png)
+![Alpenglow Sidebar Size](screenshots/Alpenglow-sidebar-size.png)
 
 To **change the font size** (12, 13 or 14; default size is 11), you must add this to your preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -201,7 +205,7 @@ or
 
 #### Sidebar row padding size
 
-![Afterglow Sidebar Row Padding](Screenshots/Afterglow-sidebar-row-padding.png)
+![Alpenglow Sidebar Row Padding](screenshots/Alpenglow-sidebar-row-padding.png)
 
 To **change the row padding** (medium or large), you must add this to your preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -222,7 +226,7 @@ or
 
 ### Status bar brighter
 
-![Afterglow Status bar brighter](Screenshots/Afterglow-status-bar.png)
+![Alpenglow Status bar brighter](screenshots/Alpenglow-status-bar.png)
 
 If you prefer that the status bar has a brighter color, you have to add this in your user preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -235,7 +239,7 @@ If you prefer that the status bar has a brighter color, you have to add this in 
 
 ### Color inactive tabs
 
-![Afterglow Color inactive tabs](Screenshots/Afterglow-inactive-tabs.png)
+![Alpenglow Color inactive tabs](screenshots/Alpenglow-inactive-tabs.png)
 
 You can highlight the color of inactive tabs, adding this to the user preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -248,7 +252,7 @@ You can highlight the color of inactive tabs, adding this to the user preference
 
 ### Horizontal padding tabs
 
-![Afterglow Horizontal padding tabs](Screenshots/Afterglow-horizontal-padding-tabs.png)
+![Alpenglow Horizontal padding tabs](screenshots/Alpenglow-horizontal-padding-tabs.png)
 
 Through the user preferences file, you can modify the horizontal padding of tabs. It works on all three types of height tabs (default, "tabs_medium" and "tabs_small").
 
@@ -270,7 +274,7 @@ or
 
 ### Non-italic tab labels on Windows
 
-![Afterglow tabs not italic](Screenshots/Afterglow-tabs-italic.png)
+![Alpenglow tabs not italic](screenshots/Alpenglow-tabs-italic.png)
 
 On Windows, tab labels are displayed in *italic* font. If you don't like that, you can add this to the user preferences file `Sublime Text -> Preferences -> Settings - User`:
 
@@ -283,41 +287,41 @@ On Windows, tab labels are displayed in *italic* font. If you don't like that, y
 
 ## Color schemes
 
-### Afterglow - Monokai
+### Alpenglow - Monokai
 
-![Afterglow Monokai](Screenshots/Afterglow-monokai.png)
+![Alpenglow Monokai](screenshots/Alpenglow-monokai.png)
 
-Besides color scheme by default, you can use the color scheme `Afterglow - Monokai` based on the original `Monokai`, slightly modified to be consistent with the Theme colors.
+Besides color scheme by default, you can use the color scheme `Alpenglow - Monokai` based on the original `Monokai`, slightly modified to be consistent with the Theme colors.
 
 You must add this in your user preferences file `Sublime Text -> Preferences -> Settings - User`:
 
 ```json
 {
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme"
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow-monokai.tmTheme"
 }
 ```
 
 
-### Afterglow - Twilight
+### Alpenglow - Twilight
 
-![Afterglow Twilight](Screenshots/Afterglow-twilight.png)
+![Alpenglow Twilight](screenshots/Alpenglow-twilight.png)
 
-If you prefer, you can use the color scheme `Afterglow - Twilight` (very slightly modified from the original), adding this to the user preferences file `Sublime Text -> Preferences -> Settings - User`:
+If you prefer, you can use the color scheme `Alpenglow - Twilight` (very slightly modified from the original), adding this to the user preferences file `Sublime Text -> Preferences -> Settings - User`:
 
 ```json
 {
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow-twilight.tmTheme"
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow-twilight.tmTheme"
 }
 ```
 
 
 ### Markdown
 
-![Afterglow markdown](Screenshots/Afterglow-markdown.png)
+![Alpenglow markdown](screenshots/Alpenglow-markdown.png)
 
 **NEW:** This color scheme support **Github Flavored Markdown**.
 
-#### To enable Afteglow for Markdown
+#### To enable Alpenglow for Markdown
 
 (I highly recommend installing [Sublime Markdown Extending plugin](https://github.com/jonschlinkert/sublime-markdown-extended).)
 
@@ -327,7 +331,7 @@ Add to your current settings or replace with the following:
 
 ```json
 {
-    "color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
+    "color_scheme": "Packages/Theme - Alpenglow/Alpenglow-markdown.tmTheme",
     "draw_centered": true,
     "draw_indent_guides": false,
     "trim_trailing_white_space_on_save": false,
@@ -346,4 +350,4 @@ You can also download a replacement icon for Sublime Text [here](https://github.
 
 ## Retina Resolution UI
 
-Afterglow Theme support retina display.
+Alpenglow Theme support retina display.
