@@ -12,33 +12,23 @@ Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com
 
 #### Alpenglow default
 
-![Alpenglow](screenshots/Alpenglow-default.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-default.png)
+[![Alpenglow](screenshots/Alpenglow-default.png)](../../raw/master/screenshots/Alpenglow-default.png)
 
 #### Alpenglow blue
 
-![Alpenglow blue](screenshots/Alpenglow-blue.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-blue.png)
+[![Alpenglow blue](screenshots/Alpenglow-blue.png)](../../raw/master/screenshots/Alpenblow-blue.png)
 
 #### Alpenglow magenta
 
-![Alpenglow magenta](screenshots/Alpenglow-magenta.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-magenta.png)
+[![Alpenglow magenta](screenshots/Alpenglow-magenta.png)](../../raw/master/screenshots/Alpenglow-magenta.png)
 
 #### Alpenglow orange
 
-![Alpenglow orange](screenshots/Alpenglow-orange.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-orange.png)
+[![Alpenglow orange](screenshots/Alpenglow-orange.png)](../../raw/master/screenshots/Alpenglow-orange.png)
 
 #### Alpenglow green
 
-![Alpenglow green](screenshots/Alpenglow-green.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-green.png)
+[![Alpenglow green](screenshots/Alpenglow-green.png)](../../raw/master/screenshots/Alpenglow-green.png)
 
 *The font used in the screenshots is [__Inconsolata -g__](http://leonardo-m.livejournal.com/77079.html).*
 
