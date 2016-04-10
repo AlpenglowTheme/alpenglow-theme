@@ -50,12 +50,12 @@ Locate your Sublime Text `Packages directory` by using the menu item `Preference
 
 Then, clone the repository using this command:
 
-    git clone https://github.com/Yabatadesign/afterglow-theme/ "Theme - Alpenglow"
+    git clone https://github.com/AlpenglowTheme/alpenglow-theme/ "Theme - Alpenglow"
 
 
 ### Manual installation
 
-* Download the [GitHub .zip](https://github.com/Yabatadesign/afterglow-theme/archive/master.zip)
+* Download the [GitHub .zip](https://github.com/AlpenglowTheme/alpenglow-theme/archive/master.zip)
 * Unzip the files and rename the folder to `Theme - Alpenglow`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
