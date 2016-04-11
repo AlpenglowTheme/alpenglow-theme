@@ -12,33 +12,23 @@ Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com
 
 #### Alpenglow default
 
-![Alpenglow](screenshots/Alpenglow-default.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-default.png)
+[![Alpenglow](screenshots/Alpenglow-default.png)](../../raw/master/screenshots/Alpenglow-default.png)
 
 #### Alpenglow blue
 
-![Alpenglow blue](screenshots/Alpenglow-blue.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-blue.png)
+[![Alpenglow blue](screenshots/Alpenglow-blue.png)](../../raw/master/screenshots/Alpenblow-blue.png)
 
 #### Alpenglow magenta
 
-![Alpenglow magenta](screenshots/Alpenglow-magenta.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-magenta.png)
+[![Alpenglow magenta](screenshots/Alpenglow-magenta.png)](../../raw/master/screenshots/Alpenglow-magenta.png)
 
 #### Alpenglow orange
 
-![Alpenglow orange](screenshots/Alpenglow-orange.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-orange.png)
+[![Alpenglow orange](screenshots/Alpenglow-orange.png)](../../raw/master/screenshots/Alpenglow-orange.png)
 
 #### Alpenglow green
 
-![Alpenglow green](screenshots/Alpenglow-green.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/screenshots/Alpenglow-green.png)
+[![Alpenglow green](screenshots/Alpenglow-green.png)](../../raw/master/screenshots/Alpenglow-green.png)
 
 *The font used in the screenshots is [__Inconsolata -g__](http://leonardo-m.livejournal.com/77079.html).*
 
@@ -60,12 +50,12 @@ Locate your Sublime Text `Packages directory` by using the menu item `Preference
 
 Then, clone the repository using this command:
 
-    git clone https://github.com/Yabatadesign/afterglow-theme/ "Theme - Alpenglow"
+    git clone https://github.com/AlpenglowTheme/alpenglow-theme/ "Theme - Alpenglow"
 
 
 ### Manual installation
 
-* Download the [GitHub .zip](https://github.com/Yabatadesign/afterglow-theme/archive/master.zip)
+* Download the [GitHub .zip](https://github.com/AlpenglowTheme/alpenglow-theme/archive/master.zip)
 * Unzip the files and rename the folder to `Theme - Alpenglow`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory.
@@ -127,7 +117,7 @@ Then add the following code settings, depending on the theme you choose. **(Afte
 
 ### Sidebar icons
 
-**New:** Now Alpenglow theme support sidebar icons.
+Alpenglow theme support sidebar icons.
 
 ![Alpenglow sidebar icons](screenshots/Alpenglow-sidebar-icons.png)
 
@@ -319,7 +309,7 @@ If you prefer, you can use the color scheme `Alpenglow - Twilight` (very slightl
 
 ![Alpenglow markdown](screenshots/Alpenglow-markdown.png)
 
-**NEW:** This color scheme support **Github Flavored Markdown**.
+This color scheme support **Github Flavored Markdown**.
 
 #### To enable Alpenglow for Markdown
 
@@ -350,4 +340,4 @@ You can also download a replacement icon for Sublime Text [here](https://github.
 
 ## Retina Resolution UI
 
-Alpenglow Theme support retina display.
+Alpenglow Theme supports retina/HiDPI displays.
