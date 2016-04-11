@@ -30,7 +30,7 @@ Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com
 
 [![Alpenglow green](screenshots/Alpenglow-green.png)](../../raw/master/screenshots/Alpenglow-green.png)
 
-*The font used in the screenshots is [__Inconsolata -g__](http://leonardo-m.livejournal.com/77079.html).*
+*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe-fonts/source-code-pro).*
 
 
 ## Installation
