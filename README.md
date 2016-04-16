@@ -8,6 +8,18 @@ Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com
 - Max Riveiro [@kavu](https://github.com/kavu) for adding a lot of icons for sidebar to this repository.
 - [@vikjam](https://github.com/vikjam) for their work in maintaining the Afterglow theme.
 
+
+## Table of Contents
+
+- [Design and Colors](#design--colors)
+- [Installation](#installation)
+- [Activating the Theme](#activating-the-theme)
+- [Configuration](#configuration)
+- [Color Schemes](#color-schemes)
+- [Dock Icon](#dock-icon)
+- [Retina Resolution UI](#retina-resolution-ui)
+
+
 ## Design & Colors
 
 #### Alpenglow default
@@ -35,7 +47,7 @@ Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com
 
 ## Installation
 
-### Package Control
+### Package Control (not live yet, coming soon!)
 
 The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net/).
 
