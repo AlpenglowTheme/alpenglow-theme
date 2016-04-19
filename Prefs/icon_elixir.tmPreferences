@@ -7,7 +7,7 @@
         <key>settings</key>
         <dict>
             <key>icon</key>
-            <string>file_type_elixir</string>
+            <string>file_type_ex</string>
         </dict>
     </dict>
 </plist>
