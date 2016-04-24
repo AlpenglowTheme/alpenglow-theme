@@ -5,11 +5,11 @@
 <plist version="1.0">
 	<dict>
 		<key>scope</key>
-		<string>source.elixir</string>
+		<string>text.html.ruby</string>
 		<key>settings</key>
 		<dict>
 			<key>icon</key>
-			<string>file_type_ex</string>
+			<string>file_type_rails</string>
 		</dict>
 	</dict>
 </plist>
