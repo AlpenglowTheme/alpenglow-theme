@@ -391,6 +391,32 @@
 				<string>#E5B567</string>
 			</dict>
 		</dict>
+	    <dict>
+			<key>name</key>
+			<string>Bold</string>
+			<key>scope</key>
+			<string>markup.bold, punctuation.definition.bold, todo.bold</string>
+			<key>settings</key>
+			<dict>
+	        <key>fontStyle</key>
+	        <string>bold</string>
+	        <key>foreground</key>
+	        <string>#E87D3E</string>
+	      </dict>
+	    </dict>
+	    <dict>
+	      <key>name</key>
+	      <string>Italic</string>
+	      <key>scope</key>
+	      <string>markup.italic, punctuation.definition.italic, todo.italic</string>
+	      <key>settings</key>
+	      <dict>
+	        <key>fontStyle</key>
+	        <string>italic</string>
+	        <key>foreground</key>
+	        <string>#B05279</string>
+	      </dict>
+	    </dict>
 
 <!-- GIT GUTTER -->
 	    <dict>
