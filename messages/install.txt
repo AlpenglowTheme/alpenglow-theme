@@ -37,7 +37,7 @@ Settings for Alpenglow-green
 
 
 If you know other settings (height of the tabs, sidebar options, ...), visit this page:
-https://github.com/YabataDesign/Alpenglow-theme/blob/master/README.md
+https://github.com/AlpenglowTheme/Alpenglow-theme/blob/master/README.md
 
 
 *** IMPORTANT - Make sure to restart Sublime after installing and activating Alpenglow ***
