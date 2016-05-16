@@ -1,0 +1,22 @@
+# Alpenglow v. 1.0.0
+
+Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com/YabataDesign/afterglow-theme), a minimal dark UI theme and syntax color scheme for Sublime Text 2 and 3.
+The theme is based on the [Spacegray](https://github.com/kkga/spacegray) theme.
+The syntax color scheme is mostly derived from [idlefingers](http://idlefingers.co.uk/).
+
+This version contains exactly the same features as pre-release v. 0.9.9, but has the following improvements over the latest version of Afterglow (v. 2.1.2):
+
+ - Support for bold and italics in LaTeX, Markdown, ... (@vikjam)
+ - GitGutter support in Monokai & Twilight color schemes (@vikjam)
+ - Improved README.md
+ - Add/fix icons for:
+     - Elixir (@vikjam)
+     - Grunt (@mknabe)
+     - Gulp (@mknabe)
+     - Julia (@vikjam)
+     - MATLAB (@egeerardyn)
+     - Perl (@nugged)
+     - PHP (@vikjam)
+     - R (@vikjam)
+     - Rails (@vikjam)
+     - Stata (@vikjam)
