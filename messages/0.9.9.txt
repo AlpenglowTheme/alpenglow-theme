@@ -1,0 +1,97 @@
+# Alpenglow v. 0.9.9
+
+Alpenglow is a fork of the Afterglow theme by @yabatadesign.
+
+# Afterglow updates
+This file gives an overview of the changes in Afterglow.
+
+## Afterglow v. 2.1.2
+
+ - Add folder icon.
+
+## Afterglow v. 2.1.1
+
+ - Sidebar folder and files align fix. Thanks to Rutger Schimmel (@indri-indri).
+
+## Afterglow v. 2.1.0
+
+ - Add tabs_label_not_italic theme option. Thanks to Sören Schwert (@sisou).
+
+## Afterglow v. 2.0.9
+
+ - Fix #73 and #67. Thanks to Max Riveiro (@kavu)
+
+## Afterglow v. 2.0.8
+
+ - Corrections.
+
+## Afterglow v. 2.0.7
+
+ - Add icons for sidebar: docker, python, rust, latex, scala, lua, elixir, clojure. (Thanks to @kavu). Add symlink icon for sidebar.
+
+## Afterglow v. 2.0.6
+
+ - Show ERB files as Ruby.
+
+## Afterglow v. 2.0.5
+
+ - Add go icon, haskell icon and .gitkeep file in git icon.
+
+## Afterglow v. 2.0.4
+
+ - Corrections
+
+## Afterglow v. 2.0.3
+
+ - Puppet icon in sidebar
+
+## Afterglow v. 2.0.2
+
+- Sidebar icons - corrections
+
+## Afterglow v. 2.0.1
+
+- Sidebar icons - corrections
+
+## Afterglow v. 2.0.0
+
+- Sidebar icons
+
+## Afterglow v. 1.2.8
+
+- Reverted changes of version v. 1.2.7 (see issue #23: https://github.com/YabataDesign/afterglow-theme/issues/23).
+
+## Afterglow v. 1.2.7
+
+- Merge pull request #21 from @jCrip: Change hover and select color to quick panel and mini panel and Change match fg color in Afterglow-blue.sublime-theme.
+- Change hover and select color to quick panel and mini panel in color Sheme default, magenta, green and orange.
+- Add messages.
+
+## Afterglow v. 1.2.6
+
+- Add GitGutter y Critic Markup to Afterglow-markdown.tmTheme.
+
+## Afterglow v. 1.2.5
+
+- Italic font in Preview Tab.
+
+## Afterglow v. 1.2.4
+
+- Now, Markdown color scheme support Github Flavored
+
+## Afterglow v. 1.2.3
+
+- Update Readme.md and new screenshot.
+- Add highlight for "@" and "this" in CoffeeScript
+
+## Afterglow v. 1.2.2
+
+- Now is possible to change horizontal padding of tabs (via user preferences file).
+
+## Afterglow v. 1.2.1
+
+- Added support for SublimeLinter 3.
+
+## Afterglow v. 1.2.0
+
+- Changed colors for GitGutter
