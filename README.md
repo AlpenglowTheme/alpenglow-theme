@@ -47,7 +47,7 @@ Alpenglow is the spiritual successor to the [Afterglow theme](https://github.com
 
 ## Installation
 
-### Package Control (not live yet, coming soon!)
+### Package Control
 
 The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net/).
 
